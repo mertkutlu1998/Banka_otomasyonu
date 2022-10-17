@@ -1,0 +1,14 @@
+C:\Users\Mert\Desktop\iskuregitimi\BankaFormuygulaması\BankaFormuygulaması\bin\Debug\BankaFormuygulaması.exe.config
+C:\Users\Mert\Desktop\iskuregitimi\BankaFormuygulaması\BankaFormuygulaması\bin\Debug\BankaFormuygulaması.exe
+C:\Users\Mert\Desktop\iskuregitimi\BankaFormuygulaması\BankaFormuygulaması\bin\Debug\BankaFormuygulaması.pdb
+C:\Users\Mert\Desktop\iskuregitimi\BankaFormuygulaması\BankaFormuygulaması\obj\Debug\BankaFormuygulaması.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\iskuregitimi\BankaFormuygulaması\BankaFormuygulaması\obj\Debug\BankaFormuygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mert\Desktop\iskuregitimi\BankaFormuygulaması\BankaFormuygulaması\obj\Debug\BankaFormuygulaması.Form1.resources
+C:\Users\Mert\Desktop\iskuregitimi\BankaFormuygulaması\BankaFormuygulaması\obj\Debug\BankaFormuygulaması.Form2.resources
+C:\Users\Mert\Desktop\iskuregitimi\BankaFormuygulaması\BankaFormuygulaması\obj\Debug\BankaFormuygulaması.Properties.Resources.resources
+C:\Users\Mert\Desktop\iskuregitimi\BankaFormuygulaması\BankaFormuygulaması\obj\Debug\BankaFormuygulaması.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\iskuregitimi\BankaFormuygulaması\BankaFormuygulaması\obj\Debug\BankaFormuygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\iskuregitimi\BankaFormuygulaması\BankaFormuygulaması\obj\Debug\BankaFormuygulaması.exe
+C:\Users\Mert\Desktop\iskuregitimi\BankaFormuygulaması\BankaFormuygulaması\obj\Debug\BankaFormuygulaması.pdb
+C:\Users\Mert\Desktop\iskuregitimi\BankaFormuygulaması\BankaFormuygulaması\obj\Debug\BankaFormuygulaması.Form3.resources
+C:\Users\Mert\Desktop\iskuregitimi\BankaFormuygulaması\BankaFormuygulaması\obj\Debug\BankaFormuygulaması.Form4.resources
